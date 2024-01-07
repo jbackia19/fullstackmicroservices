@@ -63,7 +63,7 @@ pipeline {
                                     -D sonar.inclusions=index.py \
                                     -D sonar.sourceEncoding=UTF-8 \
                                     -D sonar.language=python \
-                                    -D sonar.host.url=http://3.110.164.104:9000/"""
+                                    -D sonar.host.url=http://43.205.231.30:9000/"""
                                 }
                             }
                         }
